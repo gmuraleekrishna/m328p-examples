@@ -1,9 +1,3 @@
-/*
- * GccApplication4.c
- *
- * Created: 10/04/2018 5:07:38 PM
- * Author : u4259952
- */ 
 #include <avr/io.h>
 #include <util/delay.h>
 
