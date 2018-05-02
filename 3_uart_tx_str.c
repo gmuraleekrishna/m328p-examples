@@ -1,13 +1,3 @@
-/*
- * 3. uart_tx_str.c
- *
- *	Objective:  Understand the UART (universal asynchronous receiver and transmitter)
- *				We will use the UART to transmit a string data 
- *
- * Created: 2/9/2018 9:32:26 PM
- * Author : Jon Kim
- */ 
-
 #define F_CPU	20000000
 
 #define BAUD_RATE	9600
