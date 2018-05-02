@@ -1,14 +1,3 @@
-/*
- * 8_timer_interrupt.c
- *
- *	Objective:  Understand the timer's CTC (Clear Timer on Compare match) mode operation 
- *				to generate a desired frequency of the timer interrupt event. 
- *				The timer period value computed at http://eleccelerator.com/avr-timer-calculator/
- *
- * Created: 2/9/2018 9:32:26 PM
- * Author : Jon Kim
- */ 
-
 #define F_CPU 20000000
 
 #include <avr/io.h>
